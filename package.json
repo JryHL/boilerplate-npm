@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Jerry Hou-Liu",
+	"author": "Jerry",
+  "description": "A project for learning backend tools",
+  "keywords": ["test","project"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
